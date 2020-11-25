@@ -1,0 +1,54 @@
+body {
+    font-family: "Caladea";
+    background: linear-gradient(to right,#53d4cf, #96ff70)
+}
+
+main {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+section {
+    margin-bottom: 6vh;
+}
+
+h1 {
+    font-size: 1.5em;
+    margin-bottom: 0;
+}
+
+input {
+    display: block;
+    width: 20px
+    height: 30px
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    margin: 10px auto;
+    padding: 0 4px
+    font-size: 1em;
+    font-family: "Caladea";
+}
+
+button {
+    padding: 10px 20px; 
+    border-radius: 5x;
+    border: none;
+    background-color: #297967;
+    color: white;
+    font-size: 1em;
+    font-family: "Caladea";
+}
+
+button:hover {
+    color: rgb(255, 255, 255);
+    background-color: #234c64;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green
+}
